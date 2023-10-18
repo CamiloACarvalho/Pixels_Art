@@ -23,7 +23,7 @@ The major highlight of this project is that everything was built directly in the
 
 ## See it in Action 📹
 
-[here]([URL_TO_PROJECT_DEMO](https://www.youtube.com/watch?v=TBjn19KV4Z0)).
+[URL_TO_PROJECT_DEMO](https://www.youtube.com/watch?v=TBjn19KV4Z0)
 
 **Click on the video thumbnail above to watch the project in action right here, without leaving the page!**
 
