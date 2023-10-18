@@ -21,9 +21,9 @@ The major highlight of this project is that everything was built directly in the
 - Click on a square to paint it.
 - Try out different palettes and clear the screen whenever you want!
 
-## See it in Action
+## See it in Action 📹
 
-📹 [Watch Video](https://youtu.be/TBjn19KV4Z0)
+[here]([URL_TO_PROJECT_DEMO](https://www.youtube.com/watch?v=TBjn19KV4Z0)).
 
 **Click on the video thumbnail above to watch the project in action right here, without leaving the page!**
 
