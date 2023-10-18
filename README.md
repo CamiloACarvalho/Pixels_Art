@@ -23,7 +23,7 @@ The major highlight of this project is that everything was built directly in the
 
 ## See it in Action
 
-📹 [![Watch Video](URL_TO_VIDEO_THUMBNAIL)](https://youtu.be/TBjn19KV4Z0)
+📹 [![Watch Video](https://youtu.be/TBjn19KV4Z0)
 
 **Click on the video thumbnail above to watch the project in action right here, without leaving the page!**
 
@@ -37,4 +37,4 @@ Contributions are welcome! Feel free to open issues and propose enhancements.
 
 Have fun painting with the color palette and exploring this unique DOM project! If you have any questions or suggestions, don't hesitate to reach out.
 
-Made with ❤️ by [@CamiloACarvalho](https://github.com/CamiloACarvalho).
+Made with by [CamiloACarvalho](https://github.com/CamiloACarvalho).
