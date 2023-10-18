@@ -1,6 +1,6 @@
-# DOM Color Palette
+# Pixels Art - An Interactive DOM Color Palette
 
-Welcome to my amazing **PIXELS ART** project! 🌈
+Welcome to my amazing **Pixels Art** project! 🌈
 
 This challenging project aimed to create an interactive color palette that allows you to select a color and paint squares. You can also switch between different palettes and clear the 'canvas' with a single click.
 
@@ -22,7 +22,10 @@ The major highlight of this project is that everything was built directly in the
 - Try out different palettes and clear the screen whenever you want!
 
 ## See it in Action
-📹 [![Watch Video]((https://youtube.com/shorts/TBjn19KV4Z0?feature=share))]
+
+📹 [![Watch Video](URL_TO_VIDEO_THUMBNAIL)]([URL_TO_VIDEO](https://youtu.be/TBjn19KV4Z0))
+
+**Click on the video thumbnail above to watch the project in action right here, without leaving the page!**
 
 ## Also, Check Out
 
@@ -34,4 +37,4 @@ Contributions are welcome! Feel free to open issues and propose enhancements.
 
 Have fun painting with the color palette and exploring this unique DOM project! If you have any questions or suggestions, don't hesitate to reach out.
 
-Made with by [@CamiloACarvalho].
+Made with ❤️ by [@CamiloACarvalho]([URL_TO_YOUR_GITHUB](https://github.com/CamiloACarvalho)https://github.com/CamiloACarvalho).
