@@ -22,7 +22,7 @@ The major highlight of this project is that everything was built directly in the
 - Try out different palettes and clear the screen whenever you want!
 
 ## See it in Action
-📹 [![Watch Video](URL_TO_VIDEO_THUMBNAIL)]((https://youtube.com/shorts/TBjn19KV4Z0?feature=share))
+📹 [![Watch Video]((https://youtube.com/shorts/TBjn19KV4Z0?feature=share))]
 
 ## Also, Check Out
 
