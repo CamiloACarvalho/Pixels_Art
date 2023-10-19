@@ -7,8 +7,15 @@ const showTitle = () => {
   body.appendChild(title);
 };
 
+function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min) + min);
+}
+
 const background = () => {
-  const scenery = 'background/background02.jpeg';
+  const n = getRandomInt(1, 7);
+  const scenery = `./src/background/background0${n}.jpeg`;
   const wallpaper = document.createElement('img');
   wallpaper.id = 'landscape';
   wallpaper.src = scenery;
