@@ -29,7 +29,7 @@ The major highlight of this project is that everything was built directly in the
 
 ## Also, Check Out
 
-[Explore the interactive project](camiloacarvalho.Pixels_Art.surge.sh).
+[Explore the interactive project](camiloacarvalho-pixels-art.surge.sh).
 
 ## Contributions
 
